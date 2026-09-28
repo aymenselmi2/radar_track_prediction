@@ -1,0 +1,1 @@
+Develop a simulated radar tracking system capable of estimating the 3D position and velocity of an airborne target from noisy radar measurements, as a foundation for AI-based trajectory prediction.
